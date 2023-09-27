@@ -1,4 +1,4 @@
-sub{
+#sub{
     color: red;
 }
 
@@ -14,7 +14,7 @@ sub{
 .banner{
     height: 100%;
     width: 100%;
-    background-image: url('background.png');
+    background-image: url("file:///C:/Users/naivy/OneDrive/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20de%20pantalla%202023-09-27%20160531.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
